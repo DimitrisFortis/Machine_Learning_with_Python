@@ -8,7 +8,7 @@ These are some of the Projects of IBM's Profesional Course, "Machine Learning wi
 ### Algorithms included:
 -> Simple & Multiple Linear Regression ([Regression](Regression)), 
 
--> K-Nearest Neighbors, Decision Trees, Regression Trees ([Classifiaction](Classifiaction)), 
+-> K-Nearest Neighbors, Decision Trees, Regression Trees ([Classification](Classification)), 
 
 -> Logistic Regression, Support Vector Machine, Multiclass Linear Classification ([Linear Classification](Linear_Classification)) & 
 
