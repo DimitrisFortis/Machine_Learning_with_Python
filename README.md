@@ -10,7 +10,7 @@ These are some of the Projects of IBM's Profesional Course, "Machine Learning wi
 
 -> K-Nearest Neighbors, Decision Trees, Regression Trees ([Classifiaction](Classifiaction)), 
 
--> Logistic Regression, Support Vector Machine, Multiclass Linear Classification ([Linear Classification](LinearClassification)) & 
+-> Logistic Regression, Support Vector Machine, Multiclass Linear Classification ([Linear Classification](Linear_Classification)) & 
 
 -> K-Means ([Clustering](Clustering)).
 
